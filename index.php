@@ -39,7 +39,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html data-wf-page="65a6358f98ae25d9e60af7b3" data-wf-site="65a6257c9b4dab4f4c5b2ebc">
 <head>
   <meta charset="utf-8">
-  <title>Pocker Program</title>
+  <title>Poker Program</title>
   <meta content="width=device-width, initial-scale=1" name="viewport">
   <meta content="Webflow" name="generator">
   <link href="css/normalize.css" rel="stylesheet" type="text/css">
@@ -57,7 +57,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
               <option value=""></option>
               <option value="spade">spade</option>
               <option value="heart">heart</option>
-              <option value="daiamond">daiamond</option>
+              <option value="diamond">diamond</option>
               <option value="club">club</option>
             </select>
             <select id="number1" name="number1" data-name="Field" class="number1 w-select">
